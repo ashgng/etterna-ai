@@ -76,7 +76,7 @@ def load(map):
     return rects
     
 # Loading a certain map
-map_rect = load("sink")
+map_rect = load("test")
 
 # Main loop
 current_time = 0
